@@ -1,4 +1,3 @@
-
 import unittest
 
 from counter import Counter
